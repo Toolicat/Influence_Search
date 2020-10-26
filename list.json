@@ -87,3 +87,10 @@
 {"user":{"score":89,"name":"Дарт Мол","id":61083},"following":[29480,12045,90463]}
 {"user":{"score":327,"name":"Мон Мотма","id":73111},"following":[12045,29480,90463]}
 {"user":{"score":974,"name":"Фридон Надд","id":90463},"following":[29480,2756,61083]}
+
+{"user":{"score":895,"name":"пром","id":1},"following":[2756,3,2]}
+{"user":{"score":358,"name":"гром","id":2},"following":[1,3,5]}
+{"user":{"score":791,"name":"дром","id":3},"following":[4,5,6]}
+{"user":{"score":89,"name":"лром","id":4},"following":[61083,5]}
+{"user":{"score":327,"name":"шром","id":5},"following":[1,2,3]}
+{"user":{"score":974,"name":"нром","id":6},"following":[2,4,1]}

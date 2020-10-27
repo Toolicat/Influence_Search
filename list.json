@@ -44,8 +44,8 @@
 {"user":{"score":974,"name":"щетов","id":171},"following":[1488,6969]}
 
 //2 hop
-{"user":{"score":974,"name":"кук","id":1488},"following":[6969,171,666]}
-{"user":{"score":974,"name":"пук","id":6969},"following":[171,1488,666]}
+{"user":{"score":974,"name":"рег теф","id":1488},"following":[6969,171,666]}
+{"user":{"score":974,"name":"рег теф","id":6969},"following":[171,1488,666]}
 
 //супернода
 {"user":{"score":974,"name":"сотон","id":666},"following":[1488,6969,9696,111,444,333,10671,42666086]}
@@ -65,7 +65,7 @@
 {"user":{"score":358,"name":"Кендал Оззель","id":12146},"following":[29581,2753,90471,62086]}
 {"user":{"score":791,"name":"Бейл","id":29581},"following":[62086,12146,72115]}
 {"user":{"score":89,"name":"Бреха","id":62086},"following":[90471,2753,72115,12146]}
-{"user":{"score":327,"name":"Саваж","id":72115},"following":[2755,29581,22166646]}
+{"user":{"score":327,"name":"Саваж","id":72115},"following":[2755,29581]}
 {"user":{"score":974,"name":"Опресс","id":90471},"following":[12146,72115,62086,2753]}
 
 
@@ -75,7 +75,7 @@
 {"user":{"score":358,"name":"Мартин","id":12046},"following":[61086,90461,2755]}
 {"user":{"score":791,"name":"Анна","id":29481},"following":[90461,73115,2755]}
 {"user":{"score":89,"name":"Ульяна","id":61086},"following":[73115,2755,29481,12046]}
-{"user":{"score":327,"name":"Сергей","id":73115},"following":[61086,29481,29666581]}
+{"user":{"score":327,"name":"Сергей","id":73115},"following":[61086,29481,62066686]}
 
 {"user":{"score":974,"name":"Яна","id":90461},"following":[12046,61086,29481]}
 
@@ -88,9 +88,11 @@
 {"user":{"score":327,"name":"Мон Мотма","id":73111},"following":[12045,29480,90463]}
 {"user":{"score":974,"name":"Фридон Надд","id":90463},"following":[29480,2756,61083]}
 
+
+
 {"user":{"score":895,"name":"пром","id":1},"following":[2756,3,2]}
 {"user":{"score":358,"name":"гром","id":2},"following":[1,3,5]}
 {"user":{"score":791,"name":"дром","id":3},"following":[4,5,6]}
-{"user":{"score":89,"name":"лром","id":4},"following":[61083,5]}
+{"user":{"score":89,"name":"лром","id":4},"following":[2,5,3]}
 {"user":{"score":327,"name":"шром","id":5},"following":[1,2,3]}
 {"user":{"score":974,"name":"нром","id":6},"following":[2,4,1]}

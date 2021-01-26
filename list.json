@@ -200,8 +200,17 @@
 //спільнота без звязків
 
 {"user":{"score":895,"name":"День сурка","id":670},"following":[612,929,772,714]}
-{"user":{"score":358,"name":"Один дома","id":612},"following":[670,929,772]}
+{"user":{"score":358,"name":"Один дома","id":612},"following":[670,929,772,333333,44444,555555]}
 {"user":{"score":791,"name":"Академия Рашмор","id":929},"following":[612,772,967,714]}
 {"user":{"score":89,"name":"Большой Лебовски","id":772},"following":[670,929,967]}
 {"user":{"score":327,"name":"Криминальное чтиво","id":967},"following":[612,772,714]}
-{"user":{"score":974,"name":"История игрушек","id":714},"following":[670,612,772,967]}
+{"user":{"score":974,"name":"История игрушек","id":714},"following":[670,612,772,967,9999,8888,777777]}
+
+
+{"user":{"score":974,"name":"жепа","id":777777},"following":[]}
+{"user":{"score":974,"name":"жопа","id":8888},"following":[]}
+{"user":{"score":974,"name":"очко","id":9999},"following":[]}
+
+{"user":{"score":358,"name":"анус","id":333333},"following":[]}
+{"user":{"score":358,"name":"гузно","id":44444},"following":[]}
+{"user":{"score":358,"name":"булки","id":555555},"following":[]}

@@ -1,7 +1,7 @@
 {'user': {'score': 1, 'name': 'tplutalova', 'id': 4192045}, 'following': [11090043, 25598522, 297063689, 2791365, 4670715, 3795702, 38638244, 14722954, 5043396, 9277705, 243711439, 30592811]}
 {'user': {'score': 1, 'name': '_andreyistomin_', 'id': 8587138375}, 'following': []}
 {'user': {'score': 1, 'name': 'voloshin.sergeyy', 'id': 8046892518}, 'following': []}
-{'user': {'score': 1, 'name': 'drumyancev', 'id': 1503211687}, 'following': [194932981, 423256885, 1242400949, 397493260, 247874867, 629479245, 244931661, 1529657983, 1420492494, 183779200]}
+{'user': {'score': 1, 'name': 'drumyancev', 'id': 1503211687}, 'following': [194932981, 423256885, 1242400949, 397493260, 247874867, 629479245, 244931661, 1529657983, 1420492494, 183779200, 7623006]}
 {'user': {'score': 1, 'name': 'pyshnohvost', 'id': 1281603308}, 'following': []}
 {'user': {'score': 1, 'name': 'belowa77', 'id': 555718918}, 'following': [260560900, 194698984, 2059002981]}
 {'user': {'score': 1, 'name': 'babeshking', 'id': 333221069}, 'following': []}
@@ -27,11 +27,11 @@
 {'user': {'score': 1, 'name': 'veronika7eduardovna', 'id': 1275657852}, 'following': []}
 {'user': {'score': 1, 'name': 'melpnz', 'id': 1534909421}, 'following': []}
 {'user': {'score': 1, 'name': 'paninant0n', 'id': 199302752}, 'following': []}
-{'user': {'score': 1, 'name': 'iasonov', 'id': 214240563}, 'following': [1490487058]}
+{'user': {'score': 1, 'name': 'iasonov', 'id': 214240563}, 'following': [1490487058, 967467873]}
 {'user': {'score': 1, 'name': 'andrewzandrewz', 'id': 297063689}, 'following': []}
 {'user': {'score': 1, 'name': 'alya_blesk', 'id': 550486005}, 'following': [307321311]}
 {'user': {'score': 1, 'name': '15minutok', 'id': 7981931372}, 'following': []}
-{'user': {'score': 1, 'name': 's_shamka', 'id': 199194371}, 'following': []}
+{'user': {'score': 1, 'name': 's_shamka', 'id': 199194371}, 'following': [699234358]}
 {'user': {'score': 1, 'name': 'prdetective', 'id': 33178105}, 'following': [872426727, 179358946]}
 {'user': {'score': 1, 'name': 'm0rt0r', 'id': 566286182}, 'following': [245699387]}
 {'user': {'score': 1, 'name': 'zanauku', 'id': 5571487071}, 'following': []}
@@ -45,7 +45,7 @@
 {'user': {'score': 1, 'name': 'ljubove_', 'id': 4402659304}, 'following': []}
 {'user': {'score': 1, 'name': 'sharapov.pro', 'id': 964664260}, 'following': []}
 {'user': {'score': 1, 'name': '0lgaviktorova', 'id': 470038158}, 'following': [7868050, 1222622939, 325345935, 593646494, 185662313, 347990936]}
-{'user': {'score': 1, 'name': 'anastasiia_kim', 'id': 286961960}, 'following': [177195706, 174214998]}
+{'user': {'score': 1, 'name': 'anastasiia_kim', 'id': 286961960}, 'following': [177195706, 174214998, 309435351]}
 {'user': {'score': 1, 'name': 'aleksey_leonov', 'id': 460128246}, 'following': []}
 {'user': {'score': 1, 'name': 'evantarine', 'id': 462272160}, 'following': []}
 {'user': {'score': 1, 'name': 'juliana_spb', 'id': 904889112}, 'following': []}
@@ -63,11 +63,11 @@
 {'user': {'score': 1, 'name': 'semvlad', 'id': 969985520}, 'following': []}
 {'user': {'score': 1, 'name': 'buk_top', 'id': 223786948}, 'following': []}
 {'user': {'score': 1, 'name': 'spoon_wtf', 'id': 8995206516}, 'following': []}
-{'user': {'score': 1, 'name': 'viktoriauskova', 'id': 302695822}, 'following': [192780094, 28142399]}
+{'user': {'score': 1, 'name': 'viktoriauskova', 'id': 302695822}, 'following': [192780094, 28142399, 510666087]}
 {'user': {'score': 1, 'name': 'selfdemanded', 'id': 210667305}, 'following': [359561100]}
 {'user': {'score': 1, 'name': 'andrew.mozaika', 'id': 311747740}, 'following': [18251292]}
 {'user': {'score': 1, 'name': 'digitalfarseer', 'id': 269706976}, 'following': []}
-{'user': {'score': 1, 'name': 'morskayayildiz', 'id': 349101440}, 'following': [216483995, 249670560]}
+{'user': {'score': 1, 'name': 'morskayayildiz', 'id': 349101440}, 'following': [216483995, 249670560, 1790976207]}
 {'user': {'score': 1, 'name': 'palearsine', 'id': 308780508}, 'following': []}
 {'user': {'score': 1, 'name': 'ksenia.linkevich', 'id': 5859013265}, 'following': []}
 {'user': {'score': 1, 'name': 'tyanini', 'id': 1957205081}, 'following': []}
@@ -79,7 +79,7 @@
 {'user': {'score': 1, 'name': 'temoshacap', 'id': 1017240575}, 'following': []}
 {'user': {'score': 1, 'name': 'teoplan', 'id': 1651058027}, 'following': []}
 {'user': {'score': 1, 'name': 'kroshkafunt', 'id': 34983774}, 'following': []}
-{'user': {'score': 1, 'name': 'undruha', 'id': 2744159}, 'following': []}
+{'user': {'score': 1, 'name': 'undruha', 'id': 2744159}, 'following': [12974782]}
 {'user': {'score': 1, 'name': 'olga_dosvidos', 'id': 249417188}, 'following': [32044300]}
 {'user': {'score': 1, 'name': 'fzinatullin', 'id': 1020581433}, 'following': [12790737, 183236426]}
 {'user': {'score': 1, 'name': 'bukhalenkov', 'id': 46374427516}, 'following': []}
@@ -97,7 +97,7 @@
 {'user': {'score': 1, 'name': 'anna_lu_poledance', 'id': 1359264931}, 'following': []}
 {'user': {'score': 1, 'name': 'dasha_sahakyan', 'id': 186849408}, 'following': []}
 {'user': {'score': 1, 'name': 'natalia.klimenskaya', 'id': 4343891363}, 'following': []}
-{'user': {'score': 1, 'name': 'polydru', 'id': 868977911}, 'following': [12268590, 1671566481]}
+{'user': {'score': 1, 'name': 'polydru', 'id': 868977911}, 'following': [12268590, 1671566481, 145673050]}
 {'user': {'score': 1, 'name': 'lacotte_88', 'id': 619518684}, 'following': []}
 {'user': {'score': 1, 'name': 'artemmiliukov', 'id': 647774232}, 'following': []}
 {'user': {'score': 1, 'name': 'napoleonsister', 'id': 585853157}, 'following': [2319919855, 297627857]}
@@ -110,7 +110,7 @@
 {'user': {'score': 1, 'name': 'imaspy', 'id': 16441558}, 'following': []}
 {'user': {'score': 1, 'name': 'volodick_k', 'id': 1685636046}, 'following': [4620094367, 2263300805]}
 {'user': {'score': 1, 'name': 'polyakovapolyakova', 'id': 207655466}, 'following': [4583412607, 4455531645]}
-{'user': {'score': 1, 'name': 'aleksskorolev', 'id': 4495808439}, 'following': []}
+{'user': {'score': 1, 'name': 'aleksskorolev', 'id': 4495808439}, 'following': [1465143136]}
 {'user': {'score': 1, 'name': 'markyuplanov', 'id': 1019464270}, 'following': [5457587022]}
 {'user': {'score': 1, 'name': 'efimberson', 'id': 1464112845}, 'following': []}
 {'user': {'score': 1, 'name': 'monte_sasha', 'id': 565643222}, 'following': [184478302, 418567624]}
@@ -141,7 +141,7 @@
 {'user': {'score': 1, 'name': 'shobique', 'id': 210926399}, 'following': []}
 {'user': {'score': 1, 'name': 'nastassjanuzhnaya', 'id': 3229207117}, 'following': []}
 {'user': {'score': 1, 'name': 'rum888', 'id': 33074903}, 'following': [195711177]}
-{'user': {'score': 1, 'name': 'rita_margarita', 'id': 28142399}, 'following': [176591695, 186431915]}
+{'user': {'score': 1, 'name': 'rita_margarita', 'id': 28142399}, 'following': [176591695, 186431915, 7906480774]}
 {'user': {'score': 1, 'name': 'isaulenko', 'id': 363584943}, 'following': []}
 {'user': {'score': 1, 'name': 'vika_liverko', 'id': 186451339}, 'following': []}
 {'user': {'score': 1, 'name': 'vitaly_doshchenko', 'id': 512807623}, 'following': [47285787]}
@@ -223,7 +223,7 @@
 {'user': {'score': 1, 'name': 'gagarin2011', 'id': 2261479190}, 'following': []}
 {'user': {'score': 1, 'name': 'andreevali', 'id': 192217966}, 'following': []}
 {'user': {'score': 1, 'name': 'tru_dima', 'id': 207128058}, 'following': []}
-{'user': {'score': 1, 'name': 'blondinka_spb', 'id': 51082554}, 'following': []}
+{'user': {'score': 1, 'name': 'blondinka_spb', 'id': 51082554}, 'following': [1395819211]}
 {'user': {'score': 1, 'name': 'viktorkroft', 'id': 369443871}, 'following': [36132224, 45251043]}
 {'user': {'score': 1, 'name': 'viktoriaptits', 'id': 4680794339}, 'following': []}
 {'user': {'score': 1, 'name': 'andrey.alekseevich.korolev', 'id': 4697509317}, 'following': []}
@@ -250,8 +250,8 @@
 {'user': {'score': 1, 'name': 'koresh40rus', 'id': 4172148797}, 'following': []}
 {'user': {'score': 1, 'name': 'travalerslife', 'id': 9773267905}, 'following': []}
 {'user': {'score': 1, 'name': 'ekshishlova', 'id': 2198899481}, 'following': []}
-{'user': {'score': 1, 'name': 'j.neair', 'id': 928018316}, 'following': []}
-{'user': {'score': 1, 'name': 'orangeva_ya', 'id': 1403794937}, 'following': [737963303, 256020707]}
+{'user': {'score': 1, 'name': 'j.neair', 'id': 928018316}, 'following': [52390404]}
+{'user': {'score': 1, 'name': 'orangeva_ya', 'id': 1403794937}, 'following': [737963303, 256020707, 188957132, 1096279298]}
 {'user': {'score': 1, 'name': 'shaba_dabadoo', 'id': 50759505}, 'following': []}
 {'user': {'score': 1, 'name': 'janedry', 'id': 418420187}, 'following': []}
 {'user': {'score': 1, 'name': 'daniil.darvishev', 'id': 1719117180}, 'following': []}
@@ -275,7 +275,7 @@
 {'user': {'score': 1, 'name': 'alekseytanana', 'id': 6107299602}, 'following': []}
 {'user': {'score': 1, 'name': 'gudzhev', 'id': 194021845}, 'following': []}
 {'user': {'score': 1, 'name': 'maxim_bz', 'id': 3231247209}, 'following': [45489176, 7420661478]}
-{'user': {'score': 1, 'name': 'mcdag', 'id': 17293585}, 'following': [206741774, 1017273863, 213970977]}
+{'user': {'score': 1, 'name': 'mcdag', 'id': 17293585}, 'following': [206741774, 1017273863, 213970977, 3636339499, 20169387]}
 {'user': {'score': 1, 'name': 'prophoto_terekhova', 'id': 7016650316}, 'following': []}
 {'user': {'score': 1, 'name': 'irishka.artamonova', 'id': 1652254940}, 'following': []}
 {'user': {'score': 1, 'name': 'kospatdmit', 'id': 3414078138}, 'following': []}
@@ -330,7 +330,7 @@
 {'user': {'score': 1, 'name': 'sogrevayka', 'id': 6291064777}, 'following': []}
 {'user': {'score': 1, 'name': 'lucy.kiziridi', 'id': 6030603}, 'following': []}
 {'user': {'score': 1, 'name': 'djostik', 'id': 269421670}, 'following': []}
-{'user': {'score': 1, 'name': 'pavel_karyakin', 'id': 1035805317}, 'following': []}
+{'user': {'score': 1, 'name': 'pavel_karyakin', 'id': 1035805317}, 'following': [225493690]}
 {'user': {'score': 1, 'name': 'vipstorm', 'id': 47492280}, 'following': [221898246]}
 {'user': {'score': 1, 'name': 'masha.konopelko', 'id': 265891243}, 'following': []}
 {'user': {'score': 1, 'name': 'boudoir_lingerie_spb', 'id': 21495320465}, 'following': []}
@@ -338,13 +338,13 @@
 {'user': {'score': 1, 'name': 'aprelskaya.olesya', 'id': 1312537240}, 'following': [2264509952]}
 {'user': {'score': 1, 'name': 'lobity', 'id': 237265948}, 'following': []}
 {'user': {'score': 1, 'name': 'kimjewelry_spb', 'id': 329480906}, 'following': []}
-{'user': {'score': 1, 'name': 'lizok_bot', 'id': 53314137}, 'following': []}
+{'user': {'score': 1, 'name': 'lizok_bot', 'id': 53314137}, 'following': [459055976]}
 {'user': {'score': 1, 'name': 'tsvetkov_7', 'id': 232078507}, 'following': []}
 {'user': {'score': 1, 'name': 'elena_demibrow', 'id': 7024526546}, 'following': []}
 {'user': {'score': 1, 'name': 'rodionovp', 'id': 19696553214}, 'following': []}
 {'user': {'score': 1, 'name': 'eg_prokhorov', 'id': 8436543508}, 'following': [318889329]}
 {'user': {'score': 1, 'name': 'him_divan', 'id': 386354006}, 'following': []}
-{'user': {'score': 1, 'name': 'tatiankabelova', 'id': 710474179}, 'following': []}
+{'user': {'score': 1, 'name': 'tatiankabelova', 'id': 710474179}, 'following': [188484830]}
 {'user': {'score': 1, 'name': 'sashailinsky', 'id': 230876237}, 'following': [50280299]}
 {'user': {'score': 1, 'name': 'mk_poigraem', 'id': 4031434430}, 'following': [194240452]}
 {'user': {'score': 1, 'name': 'moteva.m', 'id': 1490819776}, 'following': []}
@@ -358,9 +358,9 @@
 {'user': {'score': 1, 'name': 'kultturist', 'id': 365869119}, 'following': []}
 {'user': {'score': 1, 'name': 'marina_moskina', 'id': 7327787153}, 'following': []}
 {'user': {'score': 1, 'name': 'fyodor_petrovich', 'id': 11864067227}, 'following': []}
-{'user': {'score': 1, 'name': 'liska_frost', 'id': 597920250}, 'following': []}
+{'user': {'score': 1, 'name': 'liska_frost', 'id': 597920250}, 'following': [1487955377]}
 {'user': {'score': 1, 'name': 'maxpolikarpov', 'id': 323502858}, 'following': []}
-{'user': {'score': 1, 'name': 'iserebrov', 'id': 1079078597}, 'following': [2223559672]}
+{'user': {'score': 1, 'name': 'iserebrov', 'id': 1079078597}, 'following': [2223559672, 188335422]}
 {'user': {'score': 1, 'name': 'mrisia', 'id': 560768339}, 'following': []}
 {'user': {'score': 1, 'name': 'kubikmurnik', 'id': 4786630131}, 'following': [180422589]}
 {'user': {'score': 1, 'name': 'artemrozanov', 'id': 244806168}, 'following': []}
@@ -372,7 +372,7 @@
 {'user': {'score': 1, 'name': 'lubyanchenko', 'id': 3784365}, 'following': []}
 {'user': {'score': 1, 'name': 'katrinicecream_', 'id': 7806804343}, 'following': []}
 {'user': {'score': 1, 'name': 'katebakan', 'id': 1101933467}, 'following': []}
-{'user': {'score': 1, 'name': 'tehhi.brusnyka', 'id': 9974851}, 'following': [353352427]}
+{'user': {'score': 1, 'name': 'tehhi.brusnyka', 'id': 9974851}, 'following': [353352427, 1195128882]}
 {'user': {'score': 1, 'name': 'sintsov.roman', 'id': 1461989380}, 'following': [403504687]}
 {'user': {'score': 1, 'name': 'svetlanadudova', 'id': 1099104917}, 'following': []}
 {'user': {'score': 1, 'name': 'smitten.for.the.mitten', 'id': 272106487}, 'following': []}
@@ -383,13 +383,13 @@
 {'user': {'score': 1, 'name': 'allexxzzei', 'id': 285124184}, 'following': []}
 {'user': {'score': 1, 'name': 'dmitry.lysak', 'id': 1639050630}, 'following': []}
 {'user': {'score': 1, 'name': 'anutasu', 'id': 512360994}, 'following': []}
-{'user': {'score': 1, 'name': 'yuracooper', 'id': 206667362}, 'following': []}
+{'user': {'score': 1, 'name': 'yuracooper', 'id': 206667362}, 'following': [207096234]}
 {'user': {'score': 1, 'name': 'ilyaradetzky', 'id': 726221226}, 'following': []}
 {'user': {'score': 1, 'name': 'zakadasil', 'id': 365552537}, 'following': []}
 {'user': {'score': 1, 'name': 'mmmatanina', 'id': 615915361}, 'following': [104864760, 40795508]}
 {'user': {'score': 1, 'name': 'igor.merzlikin', 'id': 1654581176}, 'following': []}
 {'user': {'score': 1, 'name': 'connection_yoga', 'id': 8062280483}, 'following': [7182899164]}
-{'user': {'score': 1, 'name': 'nigmanat', 'id': 330387770}, 'following': []}
+{'user': {'score': 1, 'name': 'nigmanat', 'id': 330387770}, 'following': [261129239]}
 {'user': {'score': 1, 'name': 'o.letnyaya', 'id': 178567185}, 'following': []}
 {'user': {'score': 1, 'name': 'strana_medvedey', 'id': 543008185}, 'following': []}
 {'user': {'score': 1, 'name': 'lisi4ka2009', 'id': 656345050}, 'following': []}
@@ -516,13 +516,13 @@
 {'user': {'score': 1, 'name': 'paveltolpezhnikov', 'id': 922182681}, 'following': []}
 {'user': {'score': 1, 'name': 'radostnaya_jizn', 'id': 1330652246}, 'following': []}
 {'user': {'score': 1, 'name': 'inna_sokol', 'id': 174760717}, 'following': []}
-{'user': {'score': 1, 'name': 'apalchikov', 'id': 1927800802}, 'following': []}
+{'user': {'score': 1, 'name': 'apalchikov', 'id': 1927800802}, 'following': [929243881]}
 {'user': {'score': 1, 'name': 'bespalov33km', 'id': 618678952}, 'following': []}
 {'user': {'score': 1, 'name': 'tanyuch_bur', 'id': 256020707}, 'following': []}
 {'user': {'score': 1, 'name': 'plywoodpecker', 'id': 7496367469}, 'following': []}
 {'user': {'score': 1, 'name': 'daryprirodyorg', 'id': 3636601822}, 'following': [553794871]}
 {'user': {'score': 1, 'name': 'ekaterina_boitcova', 'id': 1053352183}, 'following': []}
-{'user': {'score': 1, 'name': 'asadullinstyle', 'id': 220761958}, 'following': [2302973106]}
+{'user': {'score': 1, 'name': 'asadullinstyle', 'id': 220761958}, 'following': [2302973106, 40591498]}
 {'user': {'score': 1, 'name': 'bazis_olga', 'id': 289927051}, 'following': []}
 {'user': {'score': 1, 'name': 'vzprof', 'id': 344921736}, 'following': []}
 {'user': {'score': 1, 'name': 'dejavuking', 'id': 178104721}, 'following': []}
@@ -541,15 +541,15 @@
 {'user': {'score': 1, 'name': 'daemon_alex', 'id': 228889226}, 'following': []}
 {'user': {'score': 1, 'name': 'kuskildin', 'id': 1277609823}, 'following': []}
 {'user': {'score': 1, 'name': 'e.v.bocharova', 'id': 733753914}, 'following': [1176319428]}
-{'user': {'score': 1, 'name': 'autosan178', 'id': 6222920566}, 'following': []}
+{'user': {'score': 1, 'name': 'autosan178', 'id': 6222920566}, 'following': [190092540]}
 {'user': {'score': 1, 'name': 'emadmas', 'id': 483209958}, 'following': []}
 {'user': {'score': 1, 'name': 'anastasia_shokholova', 'id': 1526304391}, 'following': []}
 {'user': {'score': 1, 'name': 'isay7771', 'id': 1642783701}, 'following': []}
 {'user': {'score': 1, 'name': 'irishkaspb', 'id': 3881657877}, 'following': []}
 {'user': {'score': 1, 'name': 'aleksandrsopoev', 'id': 3680273038}, 'following': []}
-{'user': {'score': 1, 'name': 'olesyapyshko', 'id': 248765184}, 'following': []}
+{'user': {'score': 1, 'name': 'olesyapyshko', 'id': 248765184}, 'following': [285638873]}
 {'user': {'score': 1, 'name': 'vartalex', 'id': 42009472}, 'following': []}
-{'user': {'score': 1, 'name': 'meet.me.there', 'id': 286131084}, 'following': [16305039]}
+{'user': {'score': 1, 'name': 'meet.me.there', 'id': 286131084}, 'following': [16305039, 16335557]}
 {'user': {'score': 1, 'name': 'lena_ritzz', 'id': 500118960}, 'following': []}
 {'user': {'score': 1, 'name': 'katyashmel', 'id': 335432408}, 'following': []}
 {'user': {'score': 1, 'name': 'kuznetcovamarisha', 'id': 177842334}, 'following': []}
@@ -562,7 +562,7 @@
 {'user': {'score': 1, 'name': 'ulkerei', 'id': 2118436106}, 'following': []}
 {'user': {'score': 1, 'name': 'yangurskaya', 'id': 304983434}, 'following': []}
 {'user': {'score': 1, 'name': 'mama_spokoyno', 'id': 2047262841}, 'following': []}
-{'user': {'score': 1, 'name': 'svoloch2011', 'id': 5884308515}, 'following': [4542867093]}
+{'user': {'score': 1, 'name': 'svoloch2011', 'id': 5884308515}, 'following': [4542867093, 606248618]}
 {'user': {'score': 1, 'name': 'agentlaw', 'id': 14953954}, 'following': [2998969760, 347111953]}
 {'user': {'score': 1, 'name': 'galina_top', 'id': 2148943191}, 'following': []}
 {'user': {'score': 1, 'name': 'alinaberegovaia', 'id': 3060831761}, 'following': []}
@@ -588,7 +588,7 @@
 {'user': {'score': 1, 'name': 'zemlyanikina', 'id': 51949510}, 'following': []}
 {'user': {'score': 1, 'name': 'mkudry', 'id': 175784429}, 'following': []}
 {'user': {'score': 1, 'name': 'm_raiskaya', 'id': 1552449087}, 'following': []}
-{'user': {'score': 1, 'name': 'svmelnikoff', 'id': 18251292}, 'following': []}
+{'user': {'score': 1, 'name': 'svmelnikoff', 'id': 18251292}, 'following': [259350402]}
 {'user': {'score': 1, 'name': 'bershka88', 'id': 217884651}, 'following': []}
 {'user': {'score': 1, 'name': 'never_been_done', 'id': 9224714983}, 'following': []}
 {'user': {'score': 1, 'name': 'kantrust_ep', 'id': 13139378232}, 'following': []}
@@ -615,7 +615,7 @@
 {'user': {'score': 1, 'name': 'vetochka.icons', 'id': 265584113}, 'following': []}
 {'user': {'score': 1, 'name': 'ania_sava', 'id': 1472380995}, 'following': []}
 {'user': {'score': 1, 'name': 'juliashka77', 'id': 913889259}, 'following': []}
-{'user': {'score': 1, 'name': 'taigma', 'id': 573505286}, 'following': []}
+{'user': {'score': 1, 'name': 'taigma', 'id': 573505286}, 'following': [3573011328]}
 {'user': {'score': 1, 'name': 'sdashkevich', 'id': 308128268}, 'following': []}
 {'user': {'score': 1, 'name': 'oksanabelyakova__', 'id': 356973287}, 'following': []}
 {'user': {'score': 1, 'name': 'tall_ok_now_a', 'id': 528042224}, 'following': []}
@@ -633,7 +633,7 @@
 {'user': {'score': 1, 'name': 'artrace', 'id': 331286841}, 'following': []}
 {'user': {'score': 1, 'name': 'natalidaily', 'id': 366588007}, 'following': []}
 {'user': {'score': 1, 'name': '4apps.ru', 'id': 1829237330}, 'following': []}
-{'user': {'score': 1, 'name': 'nataly_rrrr', 'id': 259520408}, 'following': []}
+{'user': {'score': 1, 'name': 'nataly_rrrr', 'id': 259520408}, 'following': [23398895]}
 {'user': {'score': 1, 'name': 'tretiakovaleksandra', 'id': 420718847}, 'following': []}
 {'user': {'score': 1, 'name': 'irinalauri', 'id': 177912827}, 'following': []}
 {'user': {'score': 1, 'name': 'vladimirmitrofanov', 'id': 184031257}, 'following': [42957011]}
@@ -667,18 +667,18 @@
 {'user': {'score': 1, 'name': 'blond_mari', 'id': 1421021617}, 'following': []}
 {'user': {'score': 1, 'name': 'supervados', 'id': 323288021}, 'following': []}
 {'user': {'score': 1, 'name': 'nataljadmitrieva', 'id': 216226506}, 'following': []}
-{'user': {'score': 1, 'name': 'ulitiy', 'id': 234503478}, 'following': []}
+{'user': {'score': 1, 'name': 'ulitiy', 'id': 234503478}, 'following': [8780341]}
 {'user': {'score': 1, 'name': 'mikevongall', 'id': 481389598}, 'following': []}
-{'user': {'score': 1, 'name': 'stepend1', 'id': 694010149}, 'following': []}
+{'user': {'score': 1, 'name': 'stepend1', 'id': 694010149}, 'following': [251813921]}
 {'user': {'score': 1, 'name': 'morrowi', 'id': 265245590}, 'following': []}
 {'user': {'score': 1, 'name': 'aslan.patov', 'id': 36499316}, 'following': []}
-{'user': {'score': 1, 'name': 'daria.pir', 'id': 262527910}, 'following': [371885073]}
+{'user': {'score': 1, 'name': 'daria.pir', 'id': 262527910}, 'following': [371885073, 4632848346]}
 {'user': {'score': 1, 'name': 'lipsun', 'id': 47285787}, 'following': [143654695, 33067549]}
 {'user': {'score': 1, 'name': 'anton_frost_', 'id': 1803217506}, 'following': []}
 {'user': {'score': 1, 'name': 'liana_ablotiya', 'id': 51590334}, 'following': []}
 {'user': {'score': 1, 'name': 'taty_rodchenko', 'id': 1231931698}, 'following': []}
 {'user': {'score': 1, 'name': 'iamefi0p', 'id': 1209009017}, 'following': []}
-{'user': {'score': 1, 'name': 'apraksia', 'id': 954215417}, 'following': []}
+{'user': {'score': 1, 'name': 'apraksia', 'id': 954215417}, 'following': [375890830]}
 {'user': {'score': 1, 'name': 'go.fizruk', 'id': 2305548363}, 'following': []}
 {'user': {'score': 1, 'name': 'helga_home', 'id': 1451077822}, 'following': []}
 {'user': {'score': 1, 'name': 'ivo_smm_design', 'id': 9154402847}, 'following': []}
@@ -712,7 +712,7 @@
 {'user': {'score': 1, 'name': 'antipyev', 'id': 27677423}, 'following': []}
 {'user': {'score': 1, 'name': 'kolpak_off', 'id': 45489176}, 'following': []}
 {'user': {'score': 1, 'name': 'antongdetotam', 'id': 1479467238}, 'following': []}
-{'user': {'score': 1, 'name': 'vladimirkalaev', 'id': 51161119}, 'following': []}
+{'user': {'score': 1, 'name': 'vladimirkalaev', 'id': 51161119}, 'following': [55170251]}
 {'user': {'score': 1, 'name': 'sugarzvezda', 'id': 1914979321}, 'following': []}
 {'user': {'score': 1, 'name': 'pechnoy.master', 'id': 2190195039}, 'following': []}
 {'user': {'score': 1, 'name': 'solid_skill', 'id': 4724597800}, 'following': []}
@@ -720,7 +720,7 @@
 {'user': {'score': 1, 'name': 'rogov_p', 'id': 33045097}, 'following': []}
 {'user': {'score': 1, 'name': 'vitaly_timofeev', 'id': 597780184}, 'following': [4537524549]}
 {'user': {'score': 1, 'name': 'koteneva_olesia', 'id': 3451587640}, 'following': []}
-{'user': {'score': 1, 'name': 'design_studio_22.12', 'id': 2186365637}, 'following': [3083531133]}
+{'user': {'score': 1, 'name': 'design_studio_22.12', 'id': 2186365637}, 'following': [3083531133, 1417511778]}
 {'user': {'score': 1, 'name': 'ryzhaya_lalka', 'id': 655102080}, 'following': []}
 {'user': {'score': 1, 'name': 'rushasanov_here', 'id': 200988829}, 'following': []}
 {'user': {'score': 1, 'name': 'itdvl', 'id': 2021756581}, 'following': []}
@@ -728,7 +728,7 @@
 {'user': {'score': 1, 'name': 'kykaev', 'id': 326480459}, 'following': []}
 {'user': {'score': 1, 'name': 'egooorka', 'id': 254973536}, 'following': []}
 {'user': {'score': 1, 'name': 'brysinatalia', 'id': 26129289}, 'following': []}
-{'user': {'score': 1, 'name': 'anikeev_coach', 'id': 4537524549}, 'following': []}
+{'user': {'score': 1, 'name': 'anikeev_coach', 'id': 4537524549}, 'following': [31910779]}
 {'user': {'score': 1, 'name': 'maxb_target', 'id': 29584302919}, 'following': []}
 {'user': {'score': 1, 'name': 'katerina_v_inste', 'id': 281940313}, 'following': []}
 {'user': {'score': 1, 'name': 'natalia_mgw', 'id': 1266991481}, 'following': [916648098]}
@@ -740,7 +740,7 @@
 {'user': {'score': 1, 'name': 'tatiana_langovaya', 'id': 1626719517}, 'following': []}
 {'user': {'score': 1, 'name': 'homeloveka', 'id': 502348344}, 'following': []}
 {'user': {'score': 1, 'name': 'maxlozovsky', 'id': 619216552}, 'following': []}
-{'user': {'score': 1, 'name': 'elidochka', 'id': 395418465}, 'following': []}
+{'user': {'score': 1, 'name': 'elidochka', 'id': 395418465}, 'following': [1383284694]}
 {'user': {'score': 1, 'name': 'shantual', 'id': 197665655}, 'following': []}
 {'user': {'score': 1, 'name': 'minkina.alevtina', 'id': 176977944}, 'following': []}
 {'user': {'score': 1, 'name': 'zlobina_nat', 'id': 1636370363}, 'following': []}
@@ -794,7 +794,7 @@
 {'user': {'score': 1, 'name': 'fittosize', 'id': 1492597487}, 'following': []}
 {'user': {'score': 1, 'name': 'wincini', 'id': 199335614}, 'following': []}
 {'user': {'score': 1, 'name': 'starostina.photo', 'id': 1726296071}, 'following': []}
-{'user': {'score': 1, 'name': 'liliakorneva', 'id': 3453944030}, 'following': []}
+{'user': {'score': 1, 'name': 'liliakorneva', 'id': 3453944030}, 'following': [960118657]}
 {'user': {'score': 1, 'name': 'katrinleonenkova', 'id': 1397833874}, 'following': []}
 {'user': {'score': 1, 'name': 'noonewilleverunderstand', 'id': 11098483}, 'following': []}
 {'user': {'score': 1, 'name': 'olgachapman', 'id': 1246068616}, 'following': []}
@@ -812,7 +812,7 @@
 {'user': {'score': 1, 'name': 'belchyshka', 'id': 1000667050}, 'following': []}
 {'user': {'score': 1, 'name': 'julyakudrya', 'id': 288672842}, 'following': []}
 {'user': {'score': 1, 'name': 'alvlabramov', 'id': 1906947673}, 'following': []}
-{'user': {'score': 1, 'name': 'zedunit', 'id': 369415294}, 'following': []}
+{'user': {'score': 1, 'name': 'zedunit', 'id': 369415294}, 'following': [182038896]}
 {'user': {'score': 1, 'name': 'naildbf', 'id': 320689811}, 'following': [713244958, 941749468]}
 {'user': {'score': 1, 'name': 'marketologonline24', 'id': 9292348225}, 'following': []}
 {'user': {'score': 1, 'name': 'chaikin.pro', 'id': 213970977}, 'following': []}
@@ -870,7 +870,7 @@
 {'user': {'score': 1, 'name': '_kiss_son_', 'id': 38337961}, 'following': []}
 {'user': {'score': 1, 'name': 'konovaltseva.handmade', 'id': 1966112505}, 'following': []}
 {'user': {'score': 1, 'name': 'ekaterina_kurilova', 'id': 286869442}, 'following': []}
-{'user': {'score': 1, 'name': 'axionika', 'id': 223871578}, 'following': []}
+{'user': {'score': 1, 'name': 'axionika', 'id': 223871578}, 'following': [298689103]}
 {'user': {'score': 1, 'name': 'vetaperesvetova', 'id': 5565582711}, 'following': []}
 {'user': {'score': 1, 'name': 'aleksey_khvatov', 'id': 1123529703}, 'following': []}
 {'user': {'score': 1, 'name': 'elena_artoshchenkova', 'id': 1180636496}, 'following': []}
@@ -895,7 +895,7 @@
 {'user': {'score': 1, 'name': 'kris_kimmm', 'id': 1459231439}, 'following': []}
 {'user': {'score': 1, 'name': 'irinaserkhovets', 'id': 3105968964}, 'following': []}
 {'user': {'score': 1, 'name': 'kosintsevada', 'id': 3262361401}, 'following': []}
-{'user': {'score': 1, 'name': 'kart.man.ia', 'id': 228738790}, 'following': []}
+{'user': {'score': 1, 'name': 'kart.man.ia', 'id': 228738790}, 'following': [416093794]}
 {'user': {'score': 1, 'name': 'pavel.laska', 'id': 520050289}, 'following': []}
 {'user': {'score': 1, 'name': 'borisbutko', 'id': 439716791}, 'following': []}
 {'user': {'score': 1, 'name': 'olgafran', 'id': 8285830}, 'following': []}
@@ -925,7 +925,7 @@
 {'user': {'score': 1, 'name': 'olichstep.moscow', 'id': 8488585220}, 'following': []}
 {'user': {'score': 1, 'name': 'gagarinm', 'id': 176579218}, 'following': []}
 {'user': {'score': 1, 'name': 'v.kanavina', 'id': 213197737}, 'following': []}
-{'user': {'score': 1, 'name': 'filatovpe', 'id': 1540337330}, 'following': []}
+{'user': {'score': 1, 'name': 'filatovpe', 'id': 1540337330}, 'following': [618859218]}
 {'user': {'score': 1, 'name': 'dovzhenkoann', 'id': 3051264377}, 'following': []}
 {'user': {'score': 1, 'name': 'viktoraudren', 'id': 7583005872}, 'following': []}
 {'user': {'score': 1, 'name': 'semenovk.spb', 'id': 7420661478}, 'following': []}
@@ -1008,7 +1008,7 @@
 {'user': {'score': 1, 'name': 'vilenater', 'id': 7551108}, 'following': []}
 {'user': {'score': 1, 'name': 'alexander_nazarenko', 'id': 1426125315}, 'following': []}
 {'user': {'score': 1, 'name': 'sofyagorelaya', 'id': 3181697580}, 'following': []}
-{'user': {'score': 1, 'name': 'sasha_gostev', 'id': 272878231}, 'following': []}
+{'user': {'score': 1, 'name': 'sasha_gostev', 'id': 272878231}, 'following': [487390882]}
 {'user': {'score': 1, 'name': 'sdn_data', 'id': 3033971070}, 'following': []}
 {'user': {'score': 1, 'name': 'xa1000000', 'id': 1172098845}, 'following': []}
 {'user': {'score': 1, 'name': 'sokolova__natasha', 'id': 545773131}, 'following': []}
@@ -1024,3 +1024,146 @@
 {'user': {'score': 1, 'name': 'eugenialuu', 'id': 52400468}, 'following': []}
 {'user': {'score': 1, 'name': 'anna_krutsak', 'id': 405190090}, 'following': []}
 {'user': {'score': 1, 'name': 'andrew_._official', 'id': 3403084143}, 'following': []}
+{'user': {'score': 1, 'name': 'dixill', 'id': 1530134985}, 'following': []}
+{'user': {'score': 1, 'name': 'coach.duginova', 'id': 12642152388}, 'following': []}
+{'user': {'score': 1, 'name': 'sashamitrokhin', 'id': 438947733}, 'following': []}
+{'user': {'score': 1, 'name': 'sstasenka', 'id': 301808138}, 'following': []}
+{'user': {'score': 1, 'name': 'yulia_x056', 'id': 5576062033}, 'following': []}
+{'user': {'score': 1, 'name': 'arseniy_prelovskiy', 'id': 391772109}, 'following': []}
+{'user': {'score': 1, 'name': 'marina_pok', 'id': 1155644327}, 'following': []}
+{'user': {'score': 1, 'name': 'sunwader', 'id': 1156520006}, 'following': []}
+{'user': {'score': 1, 'name': 'natali_namaste', 'id': 1544130299}, 'following': []}
+{'user': {'score': 1, 'name': 'nogpyraa', 'id': 581331318}, 'following': []}
+{'user': {'score': 1, 'name': 'elena.fradkova', 'id': 33896449}, 'following': []}
+{'user': {'score': 1, 'name': 'sasha_fedoroff', 'id': 314086034}, 'following': []}
+{'user': {'score': 1, 'name': 'vs.rykov', 'id': 35380319}, 'following': []}
+{'user': {'score': 1, 'name': 'panica_panica', 'id': 6908981368}, 'following': []}
+{'user': {'score': 1, 'name': 'helen.filologe', 'id': 3157946208}, 'following': []}
+{'user': {'score': 1, 'name': 'artur_samurai', 'id': 2368265104}, 'following': []}
+{'user': {'score': 1, 'name': 'elena.planner', 'id': 4564651629}, 'following': []}
+{'user': {'score': 1, 'name': 'valentina_liubaeva', 'id': 289531299}, 'following': []}
+{'user': {'score': 1, 'name': 'aleksei_prokin', 'id': 8656333086}, 'following': []}
+{'user': {'score': 1, 'name': 's1zematter', 'id': 1364190312}, 'following': []}
+{'user': {'score': 1, 'name': 'lilunelilu', 'id': 19949070}, 'following': []}
+{'user': {'score': 1, 'name': 'sergey_tra', 'id': 1475050570}, 'following': [201867663]}
+{'user': {'score': 1, 'name': 'mi.pavlova', 'id': 7906480774}, 'following': []}
+{'user': {'score': 1, 'name': 'nimatu.production', 'id': 399730936}, 'following': []}
+{'user': {'score': 1, 'name': 'medinabdullaeva', 'id': 309435351}, 'following': []}
+{'user': {'score': 1, 'name': 'olgaarkhipova', 'id': 38768287}, 'following': []}
+{'user': {'score': 1, 'name': 'ilychdesign', 'id': 188957132}, 'following': []}
+{'user': {'score': 1, 'name': 'noya.kitsch', 'id': 416093794}, 'following': []}
+{'user': {'score': 1, 'name': 'whitefortype', 'id': 1790976207}, 'following': []}
+{'user': {'score': 1, 'name': 'photoart.pro', 'id': 1818247984}, 'following': []}
+{'user': {'score': 1, 'name': 'vika_photo_spb', 'id': 47319932}, 'following': []}
+{'user': {'score': 1, 'name': 'elena_vitte', 'id': 4632848346}, 'following': []}
+{'user': {'score': 1, 'name': 'diamonter22', 'id': 628093619}, 'following': []}
+{'user': {'score': 1, 'name': 'greenload', 'id': 1478264030}, 'following': []}
+{'user': {'score': 1, 'name': 'lavrichka', 'id': 285638873}, 'following': []}
+{'user': {'score': 1, 'name': 'katya_pro_finance', 'id': 1692862485}, 'following': []}
+{'user': {'score': 1, 'name': 'zeoraspb', 'id': 618859218}, 'following': []}
+{'user': {'score': 1, 'name': 'magidova.realtor', 'id': 5523754535}, 'following': []}
+{'user': {'score': 1, 'name': 'etumashenko', 'id': 1118380902}, 'following': []}
+{'user': {'score': 1, 'name': 'albinaanisimova.ru', 'id': 338414669}, 'following': []}
+{'user': {'score': 1, 'name': 'xar.ex', 'id': 6299153297}, 'following': []}
+{'user': {'score': 1, 'name': 'ioryndin', 'id': 37042399}, 'following': []}
+{'user': {'score': 1, 'name': 'lopyreva.ksenia', 'id': 2274831512}, 'following': []}
+{'user': {'score': 1, 'name': 'lizoklizulia', 'id': 960118657}, 'following': []}
+{'user': {'score': 1, 'name': 'cannes.company', 'id': 4663142756}, 'following': []}
+{'user': {'score': 1, 'name': 'mio_palto', 'id': 2131328044}, 'following': []}
+{'user': {'score': 1, 'name': 'ankozar', 'id': 184096904}, 'following': []}
+{'user': {'score': 1, 'name': 'lubashkin.ru', 'id': 403772114}, 'following': []}
+{'user': {'score': 1, 'name': 'soldatkin_konstantin', 'id': 40639551}, 'following': []}
+{'user': {'score': 1, 'name': 'kris_gerner', 'id': 1017257735}, 'following': []}
+{'user': {'score': 1, 'name': 'barlucci', 'id': 492752052}, 'following': []}
+{'user': {'score': 1, 'name': 'appollinary', 'id': 967467873}, 'following': []}
+{'user': {'score': 1, 'name': 'svetlanagidzenko', 'id': 351277176}, 'following': []}
+{'user': {'score': 1, 'name': 'alexkopylov', 'id': 290246190}, 'following': []}
+{'user': {'score': 1, 'name': 'andreymadb', 'id': 1485809882}, 'following': []}
+{'user': {'score': 1, 'name': 'kojixo3', 'id': 1740289641}, 'following': []}
+{'user': {'score': 1, 'name': 'slamius', 'id': 239142233}, 'following': []}
+{'user': {'score': 1, 'name': 'ylia_manaeva', 'id': 299199133}, 'following': []}
+{'user': {'score': 1, 'name': 'slovsky_s', 'id': 3007175172}, 'following': []}
+{'user': {'score': 1, 'name': 'evikbook', 'id': 55170251}, 'following': []}
+{'user': {'score': 1, 'name': 'inst_glazirani', 'id': 1526142154}, 'following': []}
+{'user': {'score': 1, 'name': 'motobarber', 'id': 259350402}, 'following': []}
+{'user': {'score': 1, 'name': 'ms.elenakarpunova', 'id': 188484830}, 'following': []}
+{'user': {'score': 1, 'name': 'olgaskrebeyko', 'id': 261129239}, 'following': []}
+{'user': {'score': 1, 'name': 'a.ertv', 'id': 358747396}, 'following': []}
+{'user': {'score': 1, 'name': 'kolessman', 'id': 190092540}, 'following': []}
+{'user': {'score': 1, 'name': 'alsufy', 'id': 332439808}, 'following': []}
+{'user': {'score': 1, 'name': 'emelyashina', 'id': 383757198}, 'following': []}
+{'user': {'score': 1, 'name': 'prosveting', 'id': 264473548}, 'following': []}
+{'user': {'score': 1, 'name': 'visakova', 'id': 8253196659}, 'following': []}
+{'user': {'score': 1, 'name': 'daria253zin', 'id': 6069817103}, 'following': []}
+{'user': {'score': 1, 'name': 'vonzenn', 'id': 404301377}, 'following': []}
+{'user': {'score': 1, 'name': 'garipovrustem', 'id': 12974782}, 'following': []}
+{'user': {'score': 1, 'name': 'le_protestant', 'id': 401878999}, 'following': []}
+{'user': {'score': 1, 'name': 'aarkhipov7336', 'id': 331878665}, 'following': []}
+{'user': {'score': 1, 'name': 'fotograf_ksenialits', 'id': 1810988668}, 'following': []}
+{'user': {'score': 1, 'name': 'innaroxy', 'id': 423673804}, 'following': []}
+{'user': {'score': 1, 'name': 'timofeev_psychology', 'id': 3501103836}, 'following': []}
+{'user': {'score': 1, 'name': 'vraja.vilasini', 'id': 3583134963}, 'following': []}
+{'user': {'score': 1, 'name': 'miraclesoul', 'id': 16335557}, 'following': []}
+{'user': {'score': 1, 'name': 'vitalymakeev', 'id': 2194706839}, 'following': []}
+{'user': {'score': 1, 'name': 'tortodel_moscow', 'id': 8619272678}, 'following': []}
+{'user': {'score': 1, 'name': 'goodserfer', 'id': 8500427999}, 'following': []}
+{'user': {'score': 1, 'name': 'ally_fe', 'id': 875424939}, 'following': []}
+{'user': {'score': 1, 'name': 'o_swallow', 'id': 1062090271}, 'following': []}
+{'user': {'score': 1, 'name': 'baltun7', 'id': 447504784}, 'following': []}
+{'user': {'score': 1, 'name': 'tvoisneki', 'id': 45056002190}, 'following': []}
+{'user': {'score': 1, 'name': 'kristinaterentieva', 'id': 287858732}, 'following': []}
+{'user': {'score': 1, 'name': 'kovalgrigoriy2021', 'id': 2251064600}, 'following': []}
+{'user': {'score': 1, 'name': 'sergeypredko', 'id': 32174353}, 'following': []}
+{'user': {'score': 1, 'name': 'anatolyhart', 'id': 25258746}, 'following': []}
+{'user': {'score': 1, 'name': 'marru56', 'id': 2321628622}, 'following': []}
+{'user': {'score': 1, 'name': 'rina___kati', 'id': 220696267}, 'following': []}
+{'user': {'score': 1, 'name': 'katty_spb', 'id': 248798791}, 'following': []}
+{'user': {'score': 1, 'name': 'elenaminchenok', 'id': 1195128882}, 'following': []}
+{'user': {'score': 1, 'name': 'maria_tsurkan', 'id': 41483722}, 'following': []}
+{'user': {'score': 1, 'name': 'jaabco', 'id': 1370157538}, 'following': []}
+{'user': {'score': 1, 'name': 'aprelvovanya', 'id': 1699017333}, 'following': []}
+{'user': {'score': 1, 'name': 'korolchuk_evgenia', 'id': 1383284694}, 'following': []}
+{'user': {'score': 1, 'name': 'wizkaz', 'id': 197595361}, 'following': []}
+{'user': {'score': 1, 'name': 'tiha_zenya', 'id': 4912217260}, 'following': []}
+{'user': {'score': 1, 'name': 'nikolaydegtyarev', 'id': 1230680236}, 'following': []}
+{'user': {'score': 1, 'name': 'churikovaolgaspb', 'id': 6302666948}, 'following': []}
+{'user': {'score': 1, 'name': 'tatyanaterno', 'id': 51639513}, 'following': []}
+{'user': {'score': 1, 'name': 'natalia.and.reeva', 'id': 193650737}, 'following': []}
+{'user': {'score': 1, 'name': 'sergeyprus', 'id': 7623006}, 'following': []}
+{'user': {'score': 1, 'name': 'selfplannedtrip', 'id': 1427916408}, 'following': []}
+{'user': {'score': 1, 'name': 'yellowacademy', 'id': 5438639373}, 'following': []}
+{'user': {'score': 1, 'name': 'natalya.yudina', 'id': 44681136982}, 'following': []}
+{'user': {'score': 1, 'name': 'zemfira_stula', 'id': 505168363}, 'following': []}
+{'user': {'score': 1, 'name': 'szenzin', 'id': 220142950}, 'following': []}
+{'user': {'score': 1, 'name': 'aloha_astioha', 'id': 1982806214}, 'following': []}
+{'user': {'score': 1, 'name': 'adel_sun', 'id': 309331739}, 'following': []}
+{'user': {'score': 1, 'name': 'vasily_ruksha', 'id': 237622366}, 'following': []}
+{'user': {'score': 1, 'name': 'o.maroon', 'id': 145673050}, 'following': []}
+{'user': {'score': 1, 'name': 'helgacam', 'id': 4842678953}, 'following': []}
+{'user': {'score': 1, 'name': 'iren.bis', 'id': 2324015728}, 'following': []}
+{'user': {'score': 1, 'name': 'mr_rent', 'id': 591979176}, 'following': []}
+{'user': {'score': 1, 'name': 'antonjha', 'id': 2026441048}, 'following': []}
+{'user': {'score': 1, 'name': 'annaoa', 'id': 20169387}, 'following': []}
+{'user': {'score': 1, 'name': 'kristinacation', 'id': 26712547}, 'following': []}
+{'user': {'score': 1, 'name': 'dmagog', 'id': 207096234}, 'following': []}
+{'user': {'score': 1, 'name': 'pavlenko_s', 'id': 225493690}, 'following': []}
+{'user': {'score': 1, 'name': 'vmarchens', 'id': 8456499995}, 'following': []}
+{'user': {'score': 1, 'name': 'shaobans', 'id': 5367139370}, 'following': []}
+{'user': {'score': 1, 'name': 'meklama', 'id': 976657882}, 'following': []}
+{'user': {'score': 1, 'name': 'indievision', 'id': 35388010}, 'following': []}
+{'user': {'score': 1, 'name': 'annie6rivers', 'id': 251813921}, 'following': []}
+{'user': {'score': 1, 'name': 'lulu__cosmetics', 'id': 1422924893}, 'following': []}
+{'user': {'score': 1, 'name': 'komshtaba', 'id': 292708969}, 'following': []}
+{'user': {'score': 1, 'name': 'narek007', 'id': 24867500}, 'following': []}
+{'user': {'score': 1, 'name': 'nebella', 'id': 17063200}, 'following': []}
+{'user': {'score': 1, 'name': 'maria_gera_', 'id': 239759009}, 'following': []}
+{'user': {'score': 1, 'name': 'drachlov', 'id': 31910779}, 'following': []}
+{'user': {'score': 1, 'name': 'hvostatiypitomets', 'id': 6317062213}, 'following': []}
+{'user': {'score': 1, 'name': 'julia.zakharova_coach', 'id': 349500268}, 'following': []}
+{'user': {'score': 1, 'name': 'nikolaymalafeev', 'id': 10005922}, 'following': []}
+{'user': {'score': 1, 'name': 'xkillevilx', 'id': 470918853}, 'following': []}
+{'user': {'score': 1, 'name': 'fotoeldar', 'id': 384546234}, 'following': []}
+{'user': {'score': 1, 'name': 'grishakof', 'id': 201867663}, 'following': []}
+{'user': {'score': 1, 'name': 'spellful', 'id': 46580207}, 'following': []}
+{'user': {'score': 1, 'name': 'alt_anest', 'id': 322416387}, 'following': []}
+{'user': {'score': 1, 'name': 'anyawasena', 'id': 14469820}, 'following': []}

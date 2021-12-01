@@ -1,91 +1,241 @@
-//c1 Alice
-{"user":{"score":895,"name":"Адас","id":2766655},"following":[12066646,29466681,73666115,1766653]}
-{"user":{"score":358,"name":"Мас Амедда","id":12066646},"following":[2766655,73666115,61666086,29466681]}
-{"user":{"score":791,"name":"Дарт Андедду","id":29466681},"following":[90666461,61666086,73666115]}
-{"user":{"score":89,"name":"Бейл Антиллес","id":61666086},"following":[90666461,2766655,12066646]}
-{"user":{"score":327,"name":"Ютура Бан","id":73666115},"following":[90666461,12066646,2766655,29466681]}
-{"user":{"score":974,"name":"Бреему Бана","id":90666461},"following":[29466681,61666086,2766655,12066646]}
-
-
-
-//c2 bob
-{"user":{"score":895,"name":"Финисс Валорум","id":2766656},"following":[73666111,12066645,61666083,29666480]}
-{"user":{"score":358,"name":"Тон Ви","id":12066645},"following":[61666083,2766656,10471]}
-{"user":{"score":791,"name":"Дарт Вективус","id":29666480},"following":[73666111,2766656,61666083]}
-{"user":{"score":89,"name":"Мейс Винду","id":61666083},"following":[73666111,12066645,10666471]}
-{"user":{"score":327,"name":"Максимилиан Вирс","id":73666111},"following":[61666083,2766656,12066645,29666480]}
-
-
-//c4 carol
-
-
-// Alice
-
-{"user":{"score":895,"name":"По Дэмерон","id":1766653},"following":[10671,42666086]}
-
-//2 hop 
-{"user":{"score":77,"name":"кек лол","id":10671},"following":[1766653,42666086,666]}
-{"user":{"score":89,"name":"Тайбер Занн","id":42666086},"following":[10671,1766653,666]}
-
-//bob
-
-{"user":{"score":974,"name":"топ","id":10471},"following":[444,333]}
-//2 hop
-{"user":{"score":974,"name":"джонни","id":444},"following":[10471,333,666]}
-{"user":{"score":974,"name":"бред","id":333},"following":[10471,444,666]}
-
-//eve
-{"user":{"score":974,"name":"мен хитов","id":106},"following":[111,9696]}
-
-//2 hop
-{"user":{"score":974,"name":"том","id":111},"following":[106,9696,666]}
-{"user":{"score":974,"name":"квентин","id":9696},"following":[106,111,666]}
-
-
-//dan
-{"user":{"score":974,"name":"щетов","id":171},"following":[1488,6969]}
-
-//2 hop
-{"user":{"score":974,"name":"рег теф","id":1488},"following":[6969,171,666]}
-{"user":{"score":974,"name":"рег теф","id":6969},"following":[171,1488,666]}
-
-//супернода
-{"user":{"score":974,"name":"сотон","id":666},"following":[1488,6969,9696,111,444,333,10671,42666086]}
-
-//c3 eve
-{"user":{"score":895,"name":"Генерал Гри́вус","id":2766653},"following":[12666146,72666115,90666471,106]}
-{"user":{"score":358,"name":"Датка Грауш","id":12666146},"following":[2766653,29666581,82666115]}
-{"user":{"score":791,"name":"Као-Сен Дарак","id":29666581},"following":[12666146,72666115,62066686]}
-{"user":{"score":89,"name":"Джабба Хатт","id":62066686},"following":[90666471,93666873,29666581,72666115]}
-{"user":{"score":327,"name":"Мара Джейд Скайуокер","id":72666115},"following":[93666873,90666471,12666146,29666581]}
-{"user":{"score":974,"name":"Адмирал Джерджеррод","id":90666471},"following":[2766653,93666873]}
-{"user":{"score":899,"name":"Дио Лекси","id":93666873},"following":[2766653,12666146,29666581,62066686]}
-
-
-//c3 dan
-{"user":{"score":895,"name":"Ниен Нунб","id":2753},"following":[62086,29581,90471,171]}
-{"user":{"score":358,"name":"Кендал Оззель","id":12146},"following":[29581,2753,90471,62086]}
-{"user":{"score":791,"name":"Бейл","id":29581},"following":[62086,12146,72115]}
-{"user":{"score":89,"name":"Бреха","id":62086},"following":[90471,2753,72115,12146]}
-{"user":{"score":327,"name":"Саваж","id":72115},"following":[2755,29581]}
-{"user":{"score":974,"name":"Опресс","id":90471},"following":[12146,72115,62086,2753]}
-
-
-//c1 frank
-{"user":{"score":895,"name":"Татьяна","id":2755},"following":[12046,61086,29481]}
-
-{"user":{"score":358,"name":"Мартин","id":12046},"following":[61086,90461,2755]}
-{"user":{"score":791,"name":"Анна","id":29481},"following":[90461,73115,2755]}
-{"user":{"score":89,"name":"Ульяна","id":61086},"following":[73115,2755,29481,12046]}
-{"user":{"score":327,"name":"Сергей","id":73115},"following":[61086,29481,62066686]}
-
-{"user":{"score":974,"name":"Яна","id":90461},"following":[12046,61086,29481]}
-
-
-//c2 gale
-{"user":{"score":895,"name":"Маз Каната","id":2756},"following":[29480,61083,73111]}
-{"user":{"score":358,"name":"Май Шу","id":12045},"following":[73111,90461]}
-{"user":{"score":791,"name":"Мале-Дии","id":29480},"following":[73111,61083,90463,2756]}
-{"user":{"score":89,"name":"Дарт Мол","id":61083},"following":[29480,12045,90463]}
-{"user":{"score":327,"name":"Мон Мотма","id":73111},"following":[12045,29480,90463]}
-{"user":{"score":974,"name":"Фридон Надд","id":90463},"following":[29480,2756,61083]}
+{'user': {'score': 1, 'name': 'gordondmytro', 'id': '13538990143'}, 'following': [22951274, 6940610250]}
+{'user': {'score': 1, 'name': 'illia_reinish', 'id': '13716256454'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'bigmoney.channel', 'id': '8892159083'}, 'following': [22951274, 6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'prizma.club', 'id': '6898542861'}, 'following': [22951274, 1499950557]}
+{'user': {'score': 1, 'name': 'boffi_official', 'id': '1978262091'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'mykolakovalenkostudio', 'id': '198046792'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'dressx', 'id': '37967281559'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'reytarska_circle', 'id': '47692263586'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'spinn', 'id': '1713735048'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'slobodyanyukmaxim', 'id': '7193025830'}, 'following': [22951274, 3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'kodasema', 'id': '3543451714'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'lomonosova.natalia', 'id': '2203297190'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'mekanism', 'id': '1121918575'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'theriverbirdsnest', 'id': '38000665900'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': '33by.pro', 'id': '2979043346'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'slowearofficial', 'id': '1224849798'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'vadym.martsenko', 'id': '211661344'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'themarketingsoc', 'id': '2860614658'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'fuelfinance', 'id': '15606752018'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'yulia.stark', 'id': '188278202'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'park_3020', 'id': '33450829720'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'dariakolomiec_', 'id': '233024387'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'alina_bazhenova__', 'id': '6075830197'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'saga.development', 'id': '7743316110'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'serhii_morhunov', 'id': '13598161755'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'mathildemellor', 'id': '1699694088'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'slushhq', 'id': '234863135'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'dorosh.raw', 'id': '1436804580'}, 'following': [22951274, 6940610250]}
+{'user': {'score': 1, 'name': 'taryantowers', 'id': '5829005220'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'thehappy_studio', 'id': '10639807184'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'hammerlyceramics', 'id': '2265489790'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'puri_chveni_kharkiv', 'id': '39511034628'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'kimo_noka', 'id': '6966317976'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'pustovoyt_elena', 'id': '184579645'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'stephenridley', 'id': '28840304'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'morglor', 'id': '1114170904'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'shmelevsky_hats', 'id': '5814117450'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'pmhub.space', 'id': '29575825298'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'igor.fostenko', 'id': '457956800'}, 'following': [22951274, 3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'nash.live', 'id': '8755430535'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'lifta.space', 'id': '45233998597'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'reynaers_aluminium_ukraine', 'id': '11901571938'}, 'following': [22951274]}
+{'user': {'score': 1, 'name': 'andriyfedoriv', 'id': 22951274}, 'following': [13716256454, 8892159083, 6898542861, 1978262091, 198046792, 37967281559, 47692263586, 1713735048, 7193025830, 3543451714, 2203297190, 1121918575, 38000665900, 2979043346, 1224849798, 211661344, 2860614658, 15606752018, 188278202, 33450829720, 233024387, 6075830197, 7743316110, 13598161755, 1699694088, 234863135, 1436804580, 5829005220, 10639807184, 2265489790, 39511034628, 6966317976, 184579645, 28840304, 1114170904, 5814117450, 29575825298, 457956800, 8755430535, 45233998597, 11901571938]}
+{'user': {'score': 1, 'name': 'margulan_seissembai', 'id': '300610256'}, 'following': [3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'radislavgandapas', 'id': '1594358723'}, 'following': [3604782755, 1499950557]}
+{'user': {'score': 1, 'name': 'vkhmelnytsky', 'id': '6940610250'}, 'following': [3604782755, 1499950557]}
+{'user': {'score': 1, 'name': 'maxim_batyrev', 'id': '197231814'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'dr.alexeysitnikov', 'id': '3897871990'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'mann_igor', 'id': '52142981'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'parabellum07', 'id': '6504437'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'maximspiridonov', 'id': '1351767384'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'e_hodchenkov', 'id': '182776082'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'loropianaofficial', 'id': '1812343717'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'tonywardcouture', 'id': '37646066'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'nmrochkovskiy', 'id': '262239201'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'dobry', 'id': '2678397'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'alexyanovsky', 'id': '1347656554'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'onistrataa', 'id': '676131704'}, 'following': [3604782755, 6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'danielroseberry', 'id': '12233840'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'anna.viduetskaya', 'id': '705497308'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'vlad.bermuda', 'id': '4766791030'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'mgeladze', 'id': '262299272'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'elle_permanent', 'id': '2259098090'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'andrey_burenok', 'id': '195727111'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'shmigelskaya_natalia', 'id': '3588743363'}, 'following': [3604782755, 6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'forbesliferussia', 'id': '3724590095'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'agabekovartem', 'id': '5842680890'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'avdeyeva_marina', 'id': '3950518493'}, 'following': [3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'toni_maticevski', 'id': '196331287'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'insideit.ru', 'id': '41002243604'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'sportyandrich', 'id': '1556292885'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'milla', 'id': '2967966768'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'olegtorbosov', 'id': '210213353'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'garikkorogodski', 'id': '4174038114'}, 'following': [3604782755, 1499950557]}
+{'user': {'score': 1, 'name': 'x10_academy', 'id': '21179149143'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'daria.darvol', 'id': '1920151452'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'tarassovtsm', 'id': '44533062019'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'artemmaidan', 'id': '1201442011'}, 'following': [3604782755, 1499950557]}
+{'user': {'score': 1, 'name': 'visotsky_consulting_kyiv', 'id': '2896833605'}, 'following': [3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'cryptowner', 'id': '6097737731'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'eugeneartyukhov', 'id': '422483958'}, 'following': [3604782755, 6940610250]}
+{'user': {'score': 1, 'name': 'money24.7.ua', 'id': '225930058'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'iron_sheriff', 'id': '8337373600'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'yacameliya', 'id': '17598736'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'maya.smirnova', 'id': '1294676888'}, 'following': [3604782755, 1499950557]}
+{'user': {'score': 1, 'name': 'bigmoney.university', 'id': '29080669693'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'bigmoney.shop', 'id': '34730379739'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'beisikeiev', 'id': '1981847522'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'ariviere', 'id': '26115409'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'molenart_ukraine', 'id': '699843774'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'bizplan_andrei.l', 'id': '9178974389'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'slava.hotnail', 'id': '32230728262'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'linzy.09', 'id': '3038100785'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'ruslan_nigmatullin', 'id': '21769422'}, 'following': [3604782755]}
+{'user': {'score': 1, 'name': 'chernyak_yevgeny', 'id': 3604782755}, 'following': [300610256, 1594358723, 6940610250, 197231814, 3897871990, 52142981, 6504437, 1351767384, 182776082, 1812343717, 37646066, 262239201, 2678397, 1347656554, 676131704, 12233840, 705497308, 4766791030, 262299272, 2259098090, 195727111, 3588743363, 3724590095, 5842680890, 3950518493, 196331287, 7193025830, 41002243604, 1556292885, 2967966768, 210213353, 4174038114, 21179149143, 1920151452, 44533062019, 1201442011, 2896833605, 6097737731, 422483958, 225930058, 8337373600, 17598736, 1294676888, 457956800, 29080669693, 34730379739, 1981847522, 26115409, 699843774, 9178974389, 32230728262, 3038100785, 21769422]}
+{'user': {'score': 1, 'name': 'maksimkoretskiy', 'id': '252646545'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'forumkyiv', 'id': '3962946258'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'ruminfin', 'id': '5677045506'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'andriidligach', 'id': '2063469062'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'tokarev_sergey', 'id': '179778155'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'finam_fotoblog', 'id': '1674341007'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'kan_development', 'id': '6209446720'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'young_business.club', 'id': '5729680446'}, 'following': [6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'studyua', 'id': '702679211'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'franchtv', 'id': '2247378089'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'bihus.info', 'id': '4788596950'}, 'following': [6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'diia.business', 'id': '34374804923'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'superludi.official', 'id': '6203368244'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'michael.fedorov', 'id': '1206871022'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'arsenik78', 'id': '369131658'}, 'following': [6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'lioncom.pro', 'id': '3019369801'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'shabanov.rock_n_roll', 'id': '3802275309'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'andrey_pyvovarov', 'id': '257736388'}, 'following': [6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 'andrii_suslenko', 'id': '8355863'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'riviera.village.ua', 'id': '4981458533'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'balbekus', 'id': '44782355'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'minfin.com.ua', 'id': '7489362169'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'marynaaristova', 'id': '206633338'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'a.kovbel', 'id': '1601930442'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'diia.gov.ua', 'id': '21471343924'}, 'following': [6940610250, 1499950557]}
+{'user': {'score': 1, 'name': 't.h.e.capital', 'id': '6886084982'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': '9elementiv', 'id': '47207831457'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'nowasteukraine', 'id': '8019717807'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'whoismiller', 'id': '34231751'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'notarius_angelovska', 'id': '1981797711'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'upgradeisgreat', 'id': '1177831027'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'andreykarpiuk', 'id': '195853771'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'valeriya_ionan', 'id': '16597856'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'marcoconcert', 'id': '3030024277'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'board.business', 'id': '14270887664'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'moredaria', 'id': '45894968'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'm__kozachuk', 'id': '18748041475'}, 'following': [6940610250]}
+{'user': {'score': 1, 'name': 'vkhmelnytsky', 'id': 6940610250}, 'following': [8892159083, 252646545, 3962946258, 5677045506, 2063469062, 179778155, 1674341007, 6209446720, 5729680446, 3950518493, 702679211, 2247378089, 4788596950, 34374804923, 6203368244, 1206871022, 3588743363, 369131658, 3019369801, 3802275309, 257736388, 422483958, 8355863, 4981458533, 7193025830, 44782355, 7489362169, 206633338, 1601930442, 1436804580, 21471343924, 6886084982, 2896833605, 300610256, 47207831457, 8019717807, 34231751, 676131704, 1981797711, 457956800, 1177831027, 195853771, 16597856, 3030024277, 14270887664, 45894968, 18748041475]}
+{'user': {'score': 1, 'name': 'popphotomag', 'id': '231337209'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'mashable', 'id': '1323391'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'sproutsocial', 'id': '193987071'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'izimbitskiy', 'id': '296208952'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'olegcloser', 'id': '4468344489'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'websummit', 'id': '424479774'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'volvocars.ukraine', 'id': '2541556439'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'ericworre', 'id': '205708938'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'kiwico_inc', 'id': '25007609'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'clickfunnels', 'id': '3002051771'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'creativelive', 'id': '1858123'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'ezrafirestone', 'id': '104759791'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'sushimaster.ukraine', 'id': '3268232862'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'stride_up', 'id': '5520501814'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'kama_ua', 'id': '543321067'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'dubinskypro', 'id': '10806557861'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'sharktankabc', 'id': '332152013'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'volodymyrgroysman', 'id': '2679237837'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'vitalygolitzyn', 'id': '255230452'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'bearnakedgranola', 'id': '365709706'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'mgralnik', 'id': '352263159'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'wildmail.io', 'id': '5972141984'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'toronto_tv', 'id': '6061320552'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'blueapron', 'id': '234524355'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'overlandgeeks', 'id': '1331001397'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'algoritmika.study', 'id': '3803087180'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'rybakovmusic', 'id': '27906595390'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'cittartapp', 'id': '19131929930'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'andrew.gavrilov', 'id': '1904628113'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'op_pop_art', 'id': '1530062896'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'cnbcmakeit', 'id': '3125310079'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'toughmudder', 'id': '26820542'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'giltcity', 'id': '3228950'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'mintsyfra.official', 'id': '22107776792'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'aishe__borseitova', 'id': '2320162652'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'antonov.marketing', 'id': '10419644720'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'fetisov_denis', 'id': '358790144'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'tsnua', 'id': '263763952'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'mila_bogush', 'id': '269247137'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'prozaporizhzhia', 'id': '45193175497'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'vladimir_krainev', 'id': '373793193'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'targe.rita', 'id': '32037656127'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'yevtushenko_c', 'id': '203404065'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'trafficandconversionsummit', 'id': '9669393167'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'expertgethelpman', 'id': '1718093420'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'motiv_ycnexa', 'id': '10833089149'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'valeriy_martynenko', 'id': '1606288259'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'macpaw', 'id': '186428572'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'kriss_golovinova', 'id': '253466179'}, 'following': [1499950557]}
+{'user': {'score': 1, 'name': 'oles_timofeev', 'id': 1499950557}, 'following': [231337209, 1323391, 193987071, 1594358723, 1201442011, 296208952, 6940610250, 4468344489, 424479774, 2541556439, 205708938, 25007609, 3002051771, 1858123, 104759791, 6898542861, 3268232862, 5520501814, 543321067, 10806557861, 332152013, 257736388, 8892159083, 2679237837, 255230452, 365709706, 352263159, 5972141984, 6061320552, 234524355, 1331001397, 3803087180, 27906595390, 19131929930, 1904628113, 1530062896, 3125310079, 26820542, 3228950, 22107776792, 2320162652, 10419644720, 4174038114, 358790144, 5729680446, 1294676888, 263763952, 3588743363, 4788596950, 269247137, 676131704, 45193175497, 373793193, 32037656127, 203404065, 9669393167, 369131658, 1718093420, 10833089149, 1606288259, 186428572, 253466179, 21471343924]}
+{'user': {'score': 1, 'name': 'katya_gatsak', 'id': '1541324623'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'kaneva.katia', 'id': '4861870644'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'marina.rodnovaya', 'id': '1632483115'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'natalyagretskaya', 'id': '4473807565'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'bukva.blog', 'id': '2310378554'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'krasnova_new', 'id': '50031913801'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'marinaprobiz', 'id': '16197413558'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'websarafan', 'id': '2276221034'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'gk_alex', 'id': '277355129'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'uspeh_zapusk', 'id': '48993090890'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'zakkery_school', 'id': '1982571943'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'julia_rodochinskaya', 'id': '5445710848'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'dimakranz', 'id': '104843404'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'mod.finance', 'id': '7997191029'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'artemblok', 'id': '3227434868'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'irina_mentor', 'id': '26568980216'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'lakizaolga_', 'id': '6898536462'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'fr.appe', 'id': '268897611'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'irinainteress', 'id': '8028357682'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'belochkina_nastassia', 'id': '233819042'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'julia_markina_freelance', 'id': '3915678112'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'glagols', 'id': '3828415567'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'sergeylauga', 'id': '3969646945'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'guzel_usmanova_ufa', 'id': '2691648515'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'natashazackhaim', 'id': '951032726'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'katya_nova__', 'id': '1264108504'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'kate_artblog', 'id': '3274933384'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'finance_blond', 'id': '1248033274'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'ty_prosto_cosmos_', 'id': '4043661921'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'marina_book', 'id': '2892369963'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'maria_mosievskih', 'id': '8055396047'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'my.freud', 'id': '2213603499'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'natalis5', 'id': '308848637'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'moscoach', 'id': '2049530630'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'sasha_parus', 'id': '333298200'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'mashapanferova', 'id': '848446359'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'vincentstudia', 'id': '45309483545'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'galia_tkachenko', 'id': '4284722758'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'i.new.i', 'id': '2926444882'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'alexandragureeva', 'id': '518984226'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'psy2.0', 'id': '3524724810'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'derigina', 'id': '6828863766'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'finance_for_life', 'id': '4640429341'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'miss_alexeeva', 'id': '1561717683'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'maja.tarasevich', 'id': '737698025'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'snezhanamanko', 'id': '481685583'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'ant.merkulov', 'id': '34109414716'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'pavel_shauchenka', 'id': '3951957856'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'veronika.agafonova', 'id': '331902047'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'tanya.drem', 'id': '27242667575'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'galya.melnikova', 'id': '46248171712'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'adrussia', 'id': '286790215'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'shapkinnikolay', 'id': '562956'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'yura.muradyan', 'id': '25398978'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'alenadobrodij', 'id': '4686968867'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'ruma_health', 'id': '2137129478'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'volkovafinance', 'id': '40252818258'}, 'following': [3432033337]}
+{'user': {'score': 1, 'name': 'truspro_business', 'id': 3432033337}, 'following': [1541324623, 4861870644, 1632483115, 4473807565, 2310378554, 50031913801, 16197413558, 2276221034, 277355129, 48993090890, 1982571943, 5445710848, 104843404, 7997191029, 3227434868, 26568980216, 6898536462, 268897611, 8028357682, 233819042, 3915678112, 3828415567, 3969646945, 2691648515, 951032726, 1264108504, 3274933384, 1248033274, 4043661921, 2892369963, 8055396047, 2213603499, 308848637, 2049530630, 333298200, 848446359, 45309483545, 4284722758, 2926444882, 518984226, 3524724810, 6828863766, 4640429341, 1561717683, 737698025, 481685583, 34109414716, 3951957856, 331902047, 27242667575, 46248171712, 286790215, 562956, 25398978, 4686968867, 2137129478, 40252818258]}
